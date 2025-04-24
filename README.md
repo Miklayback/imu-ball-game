@@ -6,7 +6,8 @@ powered  by IMU sensor input —  A browser-based mini game where you control a 
 
 ##  How to Play
 
-Open the game on your mobile browser
+Open the game on your mobile browser 
+https://miklayback.github.io/imu-ball-game/
 Tap “Start Game”
 Tilt your phone to move the blue ball
 Reach the green square while avoiding gray walls
